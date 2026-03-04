@@ -8,15 +8,23 @@ Projects for 2024 Creative Algorithms - AXT Siyun Kim
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/eb22c04d-b9e9-45d7-af84-d86e8fbe6dd2" />
 
 
-(F) : Draw forward
-(+) : turn right by 30 degree
-(-) : turn left by 30 degree
-([) : Save current position and angle
-(]) : Restore position and angle
-(T) : Draw red circle(tomato)
+'F' : Draw forward
 
-- Initial string : 'F'
+'+' : turn right by 30 degree
+
+'-' : turn left by 30 degree
+
+'[' : Save current position and angle
+
+']' : Restore position and angle
+
+'T' : Draw red circle(tomato)
+
+
+-  Initial string : 'F'
+
 - Rules : F -> F[+F]F[-FT]F[+F]
+
 
 https://editor.p5js.org/tldbs37/sketches/6hLB6Byvl
 
