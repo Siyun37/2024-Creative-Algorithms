@@ -1,16 +1,6 @@
 # 2024 Creative Algorithms
 Projects for 2024 Creative Algorithms - AXT Siyun Kim
 
-## Project 01 Curve process
-
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/75cc5527-eb64-4de9-ba1c-7699abfb6469" />
-
-
-1. Make several ('MAX_C' number of) circles with random location, and random radius. They are moving in random speed, and random directions. Each circle is rebounded when it meets the wall.
-2. Draw a curve including each circle's right end, and fill the curve with (0,0,0,70). Draw a curve including each circle's left end, and fill the curve with (0,0,0,30).
-3. As every circle is moving independently, the curve's shape randomly changes. The two curves' shapes are changing together, and since they have transparency, they create another shape by overlapping each other.
-
-https://editor.p5js.org/tldbs37/sketches/7wCXStjrl
 
 
 ## Project 02 Tomato tree
@@ -45,37 +35,6 @@ https://editor.p5js.org/tldbs37/sketches/6hLB6Byvl
 https://editor.p5js.org/tldbs37/sketches/EeDwgf84v
 
 
-## Project 05 Disability welfare center
-
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/5dcbe4fa-344f-4b4e-9f69-7d3a6b675f7c" />
-
-1. Design
-   - Background image – a map of 전라남도
-   - Each center – a house icon
-   - Information section – without disturbing the map design, we can see detailed information easily
-2. Mapping
-   - Different size of houses, which represents the number of centers in ‘that’ region.
-3. Interaction
-   - User can see the detailed information when they put their mouse on each center
-  
-https://editor.p5js.org/tldbs37/sketches/6SubOlGyA
-
-
-## Project 06 Ginkgo tree
-
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/8632aa65-d2b0-4ec8-91bc-14200032062a" />
-
-- Leaves falling
-  - Random position, random velocity, random acceleration, random angle, random rotation speed
-- Leaves pile up
-  - If a leaf meets the ground, it piles up.
-- Mouse Interaction
-  - Move → Wind direction changes based on mouse location
-  - Click → More leaves will fall
-
-https://editor.p5js.org/tldbs37/sketches/0iyxHX_-i
-
-
 ## Project 07 Emotion lock system
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/486364fb-f478-41fd-889e-9b4ea358149b" />
@@ -97,18 +56,6 @@ https://editor.p5js.org/tldbs37/sketches/0iyxHX_-i
 4. If user clicks ‘Decorate’ button, decoration items(hat, buttons, and nose) are added.
 
 
-## Project 09 Self-Otamatone
-
-<p>
-  <img width="30%" alt="image" src="https://github.com/user-attachments/assets/f34c8876-8aeb-4942-83f5-c61fa9c16005" />
-  <img width="30%" alt="image" src="https://github.com/user-attachments/assets/65fde0ff-5732-4c71-9190-8e5d1943ab69" />
-</p>
-
-- FaceOSC
-  - detect mouth height → affects sound pitch
-- Simple Otamatone Image
-  - has three steps – closed, slightly opened, opened
- 
 
 ## Project 10 Physical maze escape (team prj)
 
